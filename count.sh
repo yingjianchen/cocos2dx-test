@@ -1,0 +1,20 @@
+
+StoreLogo.scale-100.png: 	       2
+SplashScreen.scale-100.png: 	       2
+SmallLogo.scale-100.png: 	       2
+Logo.scale-100.png: 	       8
+Logo.scale-240.png: 	      10
+SmallLogo.scale-240.png: 	       2
+WideLogo.scale-240.png: 	       2
+SplashScreen.scale-240.png: 	       2
+Square71x71Logo.scale-240.png: 	       2
+StoreLogo.scale-240.png: 	       2
+HelloWorld.png: 	       7
+CloseNormal.png: 	      13
+CloseSelected.png: 	      13
+ic_launcher.png: 	       0
+ic_launcher.png: 	       1
+ic_launcher.png: 	       2
+ic_launcher.png: 	       3
+StoreLogo.png: 	       5
+SplashScreen.scale-200.png: 	       2
